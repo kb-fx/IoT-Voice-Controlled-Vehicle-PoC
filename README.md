@@ -17,4 +17,3 @@ The system architecture is split into two physical domains to ensure stability a
 
 ## Repository Contents
 *   `esp8266_web_server.ino`: The custom C++ asynchronous web server serving the HTML/JS remote and handling serial routing.
-*   `IMG_3715.jpg`: The original hand-drawn hardware schematic detailing power routing and logic connections.
