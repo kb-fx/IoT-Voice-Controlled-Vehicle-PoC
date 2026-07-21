@@ -6,7 +6,7 @@ This repository contains the architectural documentation and web-server logic fo
 *Note: This project is currently archived. The core networking code and hardware schematics are preserved here for architectural reference, while the local Arduino motor-control logic was lost during a hardware migration.*
 
 ## Hardware Architecture
-*<img width="1108" height="1280" alt="WhatsApp Image 2026-07-22 at 12 59 43 AM" src="https://github.com/user-attachments/assets/0b96f1bb-be41-48ad-82c1-7c6091692d5e" />*
+<img src="https://github.com/user-attachments/assets/0b96f1bb-be41-48ad-82c1-7c6091692d5e" width="500">
 
 
 The system architecture is split into two physical domains to ensure stability and isolate the logic chips from the heavy inductive loads of the DC motors:
